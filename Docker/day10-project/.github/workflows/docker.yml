@@ -24,3 +24,4 @@ jobs:
 
     - name: Test Application
       run: curl localhost:5000
+
